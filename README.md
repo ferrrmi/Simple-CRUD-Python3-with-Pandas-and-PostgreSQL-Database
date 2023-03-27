@@ -7,3 +7,4 @@ Req :
 - pip -> for installing modules
 - pandas Module, psycopg2 module
 - PostgreSQL database, you can run it on 10 or 12
+- SQL IDE like, dbeaver or DataGrip, u can also use Pgadmin3 if you want
