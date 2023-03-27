@@ -12,4 +12,6 @@ Req :
 How to run?
 --> py UserTest.py
 
+* im not hard deleting of running query on this app, im just soft deleting the data -> update deleted_at of the ID
+
 ![Alt Text](image.png)
